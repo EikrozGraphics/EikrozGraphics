@@ -1,3 +1,5 @@
+<img src="[URL_DE_LA_IMAGEN](https://raw.githubusercontent.com/EikrozGraphics/EikrozGraphics/refs/heads/main/banner.png)" alt="EikrozGraphics Banner" style="width:100%;"/>
+
 <h1 align="center">✨ EikrozGraphics ✨</h1>
 
 <p align="center">
