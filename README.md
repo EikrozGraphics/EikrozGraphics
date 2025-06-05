@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/EikrozGraphics/Adiciones/refs/heads/main/menus/banner.png" alt="EikrozGraphics Banner" style="width:100%;" />
+<img src="" alt="EikrozGraphics Banner" style="width:100%;" />
 
 
 <h1 align="center">✨ EikrozGraphics ✨</h1>
