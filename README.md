@@ -1,7 +1,7 @@
 <h1 align="center">✨ EikrozGraphics ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+EikrozGraphics!;Desarrollador+de+Bots+de+WhatsApp;Apasionado+por+la+automatizaci%C3%B3n+y+la+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+EikrozGraphics!;Desarrollador+de+Bots+de+WhatsApp" alt="Typing SVG" />
 </p>
 
 <p align="center">
